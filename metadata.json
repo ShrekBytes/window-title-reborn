@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shrekbytes@duck.com",
+                "Name": "ShrekBytes"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Shows the application title and icon of the active window",
+        "Icon": "preferences-desktop",
+        "Id": "org.kde.plasma.windowtitlereborn",
+        "License": "GPL-3.0-or-later",
+        "Name": "Window Title Reborn",
+        "Version": "1.0.0-plasma6.6",
+        "Website": "https://github.com/ShrekBytes/window-title-reborn"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.6",
+    "X-KDE-ParentApp": "",
+    "Keyword": "window title icon"
+}
