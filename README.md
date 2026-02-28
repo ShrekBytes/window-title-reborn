@@ -2,7 +2,7 @@
 
 <!-- <img src="screenshots/icon.png" alt="Window Title Reborn logo" width="88px" /> -->
 
-A clean, customizable KDE Plasma panel widget that shows the active window's title and icon. Revived and expanded for Plasma 6.6+.
+A clean, customizable KDE Plasma panel widget that shows the active window's title and icon.
 
 See it on the KDE Store: [LINK_HERE_LATER]
 
@@ -103,8 +103,7 @@ kpackagetool6 -t Plasma/Applet -r org.kde.plasma.windowtitlereborn
 ## Acknowledgements
 
 - Based on [plasma6-window-title-applet](https://github.com/dhruv8sh/plasma6-window-title-applet) by **Dhruvesh Surolia**
-- Which in turn builds on the work of [Psifidotos](https://github.com/psifidotos)
-
+- (https://github.com/psifidotos/applet-window-title) by **Psifidotos**
 
 ## License
 
