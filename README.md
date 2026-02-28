@@ -4,7 +4,7 @@
 
 A clean, customizable KDE Plasma panel widget that shows the active window's title and icon.
 
-See it on the KDE Store: [LINK_HERE_LATER]
+See it on the KDE Store: https://www.pling.com/p/2350022
 
 
 ## Features
@@ -43,7 +43,7 @@ See it on the KDE Store: [LINK_HERE_LATER]
 
 ### Option 2: Install from KDE Store download
 
-1. Go to [LINK_HERE_LATER]
+1. Go to https://www.pling.com/p/2350022
 2. Open the **Files** tab and download the *Window Title Reborn* `.plasmoid` file (if applicable).
 3. In Plasma, open **Add/Manage Widgets** → **Get New…** → **Install Widget From Local File**.
 4. Select the downloaded `.plasmoid` file and complete the installation.
