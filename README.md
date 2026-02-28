@@ -103,7 +103,7 @@ kpackagetool6 -t Plasma/Applet -r org.kde.plasma.windowtitlereborn
 ## Acknowledgements
 
 - Based on [plasma6-window-title-applet](https://github.com/dhruv8sh/plasma6-window-title-applet) by **Dhruvesh Surolia**
-- (https://github.com/psifidotos/applet-window-title) by **Psifidotos**
+- [applet-window-title](https://github.com/psifidotos/applet-window-title) by **Psifidotos**
 
 ## License
 
