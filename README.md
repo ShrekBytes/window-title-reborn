@@ -2,31 +2,19 @@
 
 <!-- <img src="screenshots/icon.png" alt="Window Title Reborn logo" width="88px" /> -->
 
-A maintained fork of the [plasma6-window-title-applet](https://github.com/dhruv8sh/plasma6-window-title-applet) by Dhruvesh Surolia, revived for Plasma 6.6+ compatibility with additional features.
-
-The original applet broke in Plasma 6.6 due to a missing `org.kde.plasma.private.appmenu` module. This reborn version removes that dependency and adds new length mode options, horizontal alignment, and more.
+A clean, customizable KDE Plasma panel widget that shows the active window's title and icon. Revived and expanded for Plasma 6.6+.
 
 See it on the KDE Store: [LINK_HERE_LATER]
 
 
 ## Features
 
-- Shows the **active window's title and icon** in your panel
-- **Rich text substitutions**: `%a` (App Name), `%w` (Window Title), `%q` (Activity Name)
-- **HTML tags** for selective bold (`<b>`), italic (`<i>`), and multi-line (`<br>/<p>`) text
-- **5 widget length modes**:
-  - Based on contents
-  - Fixed Length
-  - Maximum Length
-  - **Minimum Length**
-  - **Min + Max Length**
-- **Horizontal text alignment**: Left, Center, or Right (for Fixed/Max length modes)
-- **Hide when unavailable**: Option to completely hide the widget when no window title is present
-- Configurable **icon**: custom, activity icon, or hidden
-- Configurable **text formatting**: bold, italic, capitalize, font size, elide position
-- Configurable **spacing**: before icon, between icon and text, after text
-- **App name substitutions** via regex matching
-- **Behavior options**: show on maximize only, scroll through tasks, double-click maximize/minimize, middle-click close, tooltip
+- **Shows the active window's title and icon** with rich text and HTML substitution support
+- **5 widget length modes**: Contents, Fixed, Maximum, Minimum, and Min + Max
+- **Horizontal text alignment** and **hide when unavailable** options
+- **Configurable appearance**: Font formatting, spacing, and icon choices
+- **App name substitutions** via customizable regex matching
+- **Behavior options**: Show on maximize only, scroll tasks, middle-click close, and double-click maximize/minimize
 
 
 ## Screenshots
